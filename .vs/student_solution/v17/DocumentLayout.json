@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\434\\Harbarenko_Project\\student_solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4A7007-B0DC-4D19-8591-749EB81E3326}|student_project\\student_project.csproj|c:\\434\\harbarenko_project\\student_solution\\student_project\\student_print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4A7007-B0DC-4D19-8591-749EB81E3326}|student_project\\student_project.csproj|solutionrelative:student_project\\student_print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4A7007-B0DC-4D19-8591-749EB81E3326}|student_project\\student_project.csproj|C:\\434\\Harbarenko_Project\\student_solution\\student_project\\form_stdnt_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4A7007-B0DC-4D19-8591-749EB81E3326}|student_project\\student_project.csproj|solutionrelative:student_project\\form_stdnt_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4A7007-B0DC-4D19-8591-749EB81E3326}|student_project\\student_project.csproj|C:\\434\\Harbarenko_Project\\student_solution\\student_project\\form_stdnt_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F4A7007-B0DC-4D19-8591-749EB81E3326}|student_project\\student_project.csproj|solutionrelative:student_project\\form_stdnt_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4A7007-B0DC-4D19-8591-749EB81E3326}|student_project\\student_project.csproj|C:\\434\\Harbarenko_Project\\student_solution\\student_project\\student_report.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{4F4A7007-B0DC-4D19-8591-749EB81E3326}|student_project\\student_project.csproj|solutionrelative:student_project\\student_report.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4A7007-B0DC-4D19-8591-749EB81E3326}|student_project\\student_project.csproj|C:\\434\\Harbarenko_Project\\student_solution\\student_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F4A7007-B0DC-4D19-8591-749EB81E3326}|student_project\\student_project.csproj|solutionrelative:student_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4A7007-B0DC-4D19-8591-749EB81E3326}|student_project\\student_project.csproj|C:\\434\\Harbarenko_Project\\student_solution\\student_project\\form_stdnt_abauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F4A7007-B0DC-4D19-8591-749EB81E3326}|student_project\\student_project.csproj|solutionrelative:student_project\\form_stdnt_abauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4A7007-B0DC-4D19-8591-749EB81E3326}|student_project\\student_project.csproj|C:\\434\\Harbarenko_Project\\student_solution\\student_project\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4A7007-B0DC-4D19-8591-749EB81E3326}|student_project\\student_project.csproj|solutionrelative:student_project\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4A7007-B0DC-4D19-8591-749EB81E3326}|student_project\\student_project.csproj|C:\\434\\Harbarenko_Project\\student_solution\\student_project\\student_print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F4A7007-B0DC-4D19-8591-749EB81E3326}|student_project\\student_project.csproj|solutionrelative:student_project\\student_print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_stdnt_info.cs",
+              "DocumentMoniker": "C:\\434\\Harbarenko_Project\\student_solution\\student_project\\Form_stdnt_info.cs",
+              "RelativeDocumentMoniker": "student_project\\Form_stdnt_info.cs",
+              "ToolTip": "C:\\434\\Harbarenko_Project\\student_solution\\student_project\\Form_stdnt_info.cs",
+              "RelativeToolTip": "student_project\\Form_stdnt_info.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:46:48.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form_stdnt_AbAuth.cs [Design]",
+              "DocumentMoniker": "C:\\434\\Harbarenko_Project\\student_solution\\student_project\\Form_stdnt_AbAuth.cs",
+              "RelativeDocumentMoniker": "student_project\\Form_stdnt_AbAuth.cs",
+              "ToolTip": "C:\\434\\Harbarenko_Project\\student_solution\\student_project\\Form_stdnt_AbAuth.cs [Design]*",
+              "RelativeToolTip": "student_project\\Form_stdnt_AbAuth.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:00:35.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\434\\Harbarenko_Project\\student_solution\\student_project\\Form1.cs",
+              "RelativeDocumentMoniker": "student_project\\Form1.cs",
+              "ToolTip": "C:\\434\\Harbarenko_Project\\student_solution\\student_project\\Form1.cs [Design]",
+              "RelativeToolTip": "student_project\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:07:20.423Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "student_print.cs",
+              "DocumentMoniker": "C:\\434\\Harbarenko_Project\\student_solution\\student_project\\student_print.cs",
+              "RelativeDocumentMoniker": "student_project\\student_print.cs",
+              "ToolTip": "C:\\434\\Harbarenko_Project\\student_solution\\student_project\\student_print.cs",
+              "RelativeToolTip": "student_project\\student_print.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T22:17:45.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "student_report.rdlc [Design]",
+              "DocumentMoniker": "C:\\434\\Harbarenko_Project\\student_solution\\student_project\\student_report.rdlc",
+              "RelativeDocumentMoniker": "student_project\\student_report.rdlc",
+              "ToolTip": "C:\\434\\Harbarenko_Project\\student_solution\\student_project\\student_report.rdlc [Design]",
+              "RelativeToolTip": "student_project\\student_report.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-04-04T21:17:24.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\434\\Harbarenko_Project\\student_solution\\student_project\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "student_project\\Form1.Designer.cs",
+              "ToolTip": "C:\\434\\Harbarenko_Project\\student_solution\\student_project\\Form1.Designer.cs",
+              "RelativeToolTip": "student_project\\Form1.Designer.cs",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAkwNMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T19:00:23.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_stdnt_info.cs [Design]",
+              "DocumentMoniker": "C:\\434\\Harbarenko_Project\\student_solution\\student_project\\Form_stdnt_info.cs",
+              "RelativeDocumentMoniker": "student_project\\Form_stdnt_info.cs",
+              "ToolTip": "C:\\434\\Harbarenko_Project\\student_solution\\student_project\\Form_stdnt_info.cs [Design]",
+              "RelativeToolTip": "student_project\\Form_stdnt_info.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:01:41.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "student_print.cs [Design]",
+              "DocumentMoniker": "C:\\434\\Harbarenko_Project\\student_solution\\student_project\\student_print.cs",
+              "RelativeDocumentMoniker": "student_project\\student_print.cs",
+              "ToolTip": "C:\\434\\Harbarenko_Project\\student_solution\\student_project\\student_print.cs [Design]",
+              "RelativeToolTip": "student_project\\student_print.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:44:00.8Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
